@@ -1,0 +1,8 @@
+"column_name","data_type"
+"index","bigint"
+"timestamp","text"
+"month","bigint"
+"year","bigint"
+"day","bigint"
+"time_period","text"
+"date_uuid","text"

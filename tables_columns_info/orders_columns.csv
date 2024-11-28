@@ -1,0 +1,8 @@
+"column_name","data_type"
+"User ID","text"
+"Card Number","bigint"
+"Store Code","text"
+"product_code","text"
+"Product Quantity","bigint"
+"Order Date","text"
+"Shipping Date","text"
