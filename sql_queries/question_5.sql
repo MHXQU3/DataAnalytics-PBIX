@@ -1,3 +1,4 @@
+-- Q5. Which product category generated the most profit for the "Wiltshire, UK" region in 2021?
 SELECT p.product_name, SUM((o."Product Quantity") * (REPLACE((p.product_price), '£', '')::NUMERIC)) AS profit
 FROM orders_powerbi o 
 JOIN dim_products p

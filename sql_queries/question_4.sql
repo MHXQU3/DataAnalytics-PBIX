@@ -1,3 +1,4 @@
+-- Q4. Create a view where the rows are the store types and the columns are the total sales, percentage of total sales and the count of orders?
 SELECT s.store_type, SUM((o."Product Quantity") * (REPLACE((p.product_price), '£', '')::NUMERIC)) AS total_sales, 
 	ROUND(SUM((o."Product Quantity") * (REPLACE(p.product_price, '£', '')::NUMERIC)) * 100.0 /
     SUM(SUM((o."Product Quantity") * (REPLACE(p.product_price, '£', '')::NUMERIC))) OVER (), 2) AS percentage_of_total_sales,
