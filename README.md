@@ -65,4 +65,5 @@ To run this project several tools are required:
 
 ## License
 
-This project is licensed under AICore.
+This work is licensed under a Creative Commons Attribution-NoDerivs 4.0 International License.  
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/4.0/
