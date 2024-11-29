@@ -13,10 +13,10 @@ The report will present a high-level business summary tailored for C-suite execu
 
 ## Files 
 
-`data_analytics_report.pbix`: The Power BI report.
-`sql_queries`: The queries for the business questions provided.
-`csv_queries`: The results for the aforementioned queries.
-`table_columns_info`: Information relating to the tables, the columns they contain and the datatypes of the columns.
+- `data_analytics_report.pbix`: The Power BI report.
+- `sql_queries`: The queries for the business questions provided.
+- `csv_queries`: The results for the aforementioned queries.
+- `table_columns_info`: Information relating to the tables, the columns they contain and the datatypes of the columns.
 
 ## Project Outline
 
