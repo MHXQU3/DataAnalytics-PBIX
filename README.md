@@ -41,15 +41,21 @@ The report will present a high-level business summary tailored for C-suite execu
     - The report consists of several pages:
         - Customer Detail:
             - This page focuses on analysis on the customer level.
+            ![customer](Report%20Screenshots/Customer%20Detail%20Snapshot.png)
         - Executive Summary:
             - Provides an executive level summary which gives an overview of the company's performance as a whole.
+            ![exec](Report%20Screenshots\Executive%20Summary%20Snapshot.png)
         - Product Detail:
             - Provides an in-depth breakdown of performance of the products held in inventory with options to filter by product and region.
+            ![prod](Report%20Screenshots\Product%20Detail%20Snapshot.png)
         - Stores Map:
             - Responsible for giving a geographical overview of all the stores in different region allowing for the user to narrow down on a specific region.
+            ![map](Report%20Screenshots\Stores%20Map%20Snapshot.png)
             - Used with a stores tooltip which allows for a look on YTD profit performance vs target, available on hover over a specific store.
+            ![tooltip](Report%20Screenshots\Stores%20Tooltip%20Snapshot.png)
         - Stores Drillthrough:
             - Makes it easy for managers to track progress of a given store, providing a summary of each stores performance. 
+            ![drill](Report%20Screenshots\Stores%20Drillthrough%20Snapshot.png)
 4. SQL querying.
     - This milestone was to accomodate for those users outside of the company, especially for those who will not have access to tools like Power BI. 
     - This focused on answering several business related questions that would allow us to snapshot most of the critical information one would see when viewing the report, without actually having those visuals on hand.
