@@ -35,7 +35,7 @@ The report will present a high-level business summary tailored for C-suite execu
     - To create a star-shaped model, a 5th table would need to be created.
     - Using DAX, a continuous date table was created, capitalising on the time intellingence functions of Power BI. Several columns were added to streamline our later functions. 
     - The star-shaped model looks like the following:
-    ![star](Star_Shaped_Schema.png)
+    ![star](Star-Shaped_Schema.png)
     - Heirarchies were also created in the date and geographical tables to facilitate drill-down in the charts we will go on to include in our report.
 3. Building the report.
     - The report consists of several pages:
@@ -63,7 +63,7 @@ To run this project several tools are required:
 - VSCode
 - SQLTools extension within VSCode
 
-## License
+## License 
 
 This work is licensed under a Creative Commons Attribution-NoDerivs 4.0 International License.  
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nd/4.0/
