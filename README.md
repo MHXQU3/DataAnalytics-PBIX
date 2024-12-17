@@ -1,4 +1,4 @@
-# AICore Data Analytics Power BI Report
+# Data Analytics Power BI Report
 
 _Started on 10/11/2024_
 
