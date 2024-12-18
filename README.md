@@ -1,6 +1,6 @@
 # Data Analytics Power BI Report
 
-_Started on 10/12/2024_
+_Started on 8/12/2024_
 
 This project was the second project set by AICore as part of the Data Analytics pathway. This project had a stronger focus on the visualisation aspect of data analysis, more specifically, Power BI. It involved importing data from several sources into Power BI, then cleaning the tables seperately based on what was appropriate for the table, creating measures and new tables from the existing data before finally collating everything into a visualisation the can be presented to those it would concern. This project also had a step of querying the data in SQL to cater to those clients who wouldn't have direct acccess to specialised visualisation tools like Power BI, so we can give them an overarching dissemination of the key data that they can get relevant information from without looking at the specialised visualisations.
 
